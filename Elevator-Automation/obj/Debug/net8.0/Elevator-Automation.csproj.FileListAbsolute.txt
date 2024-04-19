@@ -1,0 +1,14 @@
+C:\Elevator\Elevator-Automation\Elevator-Automation\Elevator-Automation\bin\Debug\net8.0\Elevator-Automation.exe
+C:\Elevator\Elevator-Automation\Elevator-Automation\Elevator-Automation\bin\Debug\net8.0\Elevator-Automation.deps.json
+C:\Elevator\Elevator-Automation\Elevator-Automation\Elevator-Automation\bin\Debug\net8.0\Elevator-Automation.runtimeconfig.json
+C:\Elevator\Elevator-Automation\Elevator-Automation\Elevator-Automation\bin\Debug\net8.0\Elevator-Automation.dll
+C:\Elevator\Elevator-Automation\Elevator-Automation\Elevator-Automation\bin\Debug\net8.0\Elevator-Automation.pdb
+C:\Elevator\Elevator-Automation\Elevator-Automation\Elevator-Automation\obj\Debug\net8.0\Elevator-Automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Elevator\Elevator-Automation\Elevator-Automation\Elevator-Automation\obj\Debug\net8.0\Elevator-Automation.AssemblyInfoInputs.cache
+C:\Elevator\Elevator-Automation\Elevator-Automation\Elevator-Automation\obj\Debug\net8.0\Elevator-Automation.AssemblyInfo.cs
+C:\Elevator\Elevator-Automation\Elevator-Automation\Elevator-Automation\obj\Debug\net8.0\Elevator-Automation.csproj.CoreCompileInputs.cache
+C:\Elevator\Elevator-Automation\Elevator-Automation\Elevator-Automation\obj\Debug\net8.0\Elevator-Automation.dll
+C:\Elevator\Elevator-Automation\Elevator-Automation\Elevator-Automation\obj\Debug\net8.0\refint\Elevator-Automation.dll
+C:\Elevator\Elevator-Automation\Elevator-Automation\Elevator-Automation\obj\Debug\net8.0\Elevator-Automation.pdb
+C:\Elevator\Elevator-Automation\Elevator-Automation\Elevator-Automation\obj\Debug\net8.0\Elevator-Automation.genruntimeconfig.cache
+C:\Elevator\Elevator-Automation\Elevator-Automation\Elevator-Automation\obj\Debug\net8.0\ref\Elevator-Automation.dll
